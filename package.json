@@ -1,21 +1,23 @@
 {
-  "name": "backend",
+  "name": "backendserver",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyclic-software/starter-express-api.git"
+    "url": "git+https://github.com/Vedprakas987/backendserver.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vedprakas987/backendserver/issues"
+  },
+  "homepage": "https://github.com/Vedprakas987/backendserver#readme",
   "dependencies": {
     "json-server": "^0.17.1"
-
   }
 }
